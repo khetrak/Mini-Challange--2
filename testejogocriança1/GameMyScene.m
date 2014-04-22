@@ -5,6 +5,7 @@
 //  Created by Lucas Mendanha Filardi on 4/22/14.
 //  Copyright (c) 2014 MiniChal2. All rights reserved.
 //
+
 #import "GameMyScene.h"
 
 @interface GameMyScene ()
